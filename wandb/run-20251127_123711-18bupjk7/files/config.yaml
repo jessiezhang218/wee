@@ -1,0 +1,52 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            ww25x9fc6g5o0b4b3x0dgrb03c1p363a:
+                codePath: streamlit_app.py
+                codePathLocal: streamlit_app.py
+                cpu_count: 1
+                cpu_count_logical: 2
+                disk:
+                    /:
+                        total: "33636024320"
+                        used: "3138437120"
+                email: jessiezhang0218@gmail.com
+                executable: /usr/local/bin/python3.11
+                git:
+                    commit: 04d1eb553b7608a61aceeefc77647278df03b8c9
+                    remote: https://github.com/jessiezhang218/wee
+                host: codespaces-12cc97
+                memory:
+                    total: "8330575872"
+                os: Linux-6.8.0-1030-azure-x86_64-with-glibc2.31
+                program: streamlit_app.py
+                python: CPython 3.11.13
+                root: /workspaces/wee
+                startedAt: "2025-11-27T12:37:11.939771Z"
+                writerId: ww25x9fc6g5o0b4b3x0dgrb03c1p363a
+        m: []
+        python_version: 3.11.13
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+            "4": 3.11.13
+            "5": 0.23.0
+            "10":
+                - 20
+            "12": 0.23.0
+            "13": linux-x86_64
+max_depth:
+    value: 20
+model_type:
+    value: Random Forest
+n_estimators:
+    value: 147
+test_size:
+    value: 0.2

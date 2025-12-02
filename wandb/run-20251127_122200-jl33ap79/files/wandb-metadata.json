@@ -1,0 +1,17 @@
+{
+  "os": "Linux-6.8.0-1030-azure-x86_64-with-glibc2.31",
+  "python": "CPython 3.11.13",
+  "startedAt": "2025-11-27T12:22:00.476241Z",
+  "program": "streamlit_app.py",
+  "codePath": "streamlit_app.py",
+  "codePathLocal": "streamlit_app.py",
+  "git": {
+    "remote": "https://github.com/jessiezhang218/wee",
+    "commit": "04d1eb553b7608a61aceeefc77647278df03b8c9"
+  },
+  "email": "az3092@nyu.edu",
+  "root": "/workspaces/wee",
+  "host": "codespaces-12cc97",
+  "executable": "/usr/local/bin/python3.11",
+  "writerId": "xtw4e6di59c7qpob3qolxl1z7t349nmu"
+}
